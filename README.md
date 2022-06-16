@@ -1,1 +1,1 @@
-# intro_machine_learning_final
+# Final project dataset and Jupyter Notebook for Introduction to Machine Learning.
